@@ -1,0 +1,62 @@
+".container": {
+	backgroundColor:"white"
+},
+"Label": {
+	textAlign : Ti.UI.TEXT_ALIGNMENT_LEFT,
+	verticalAlign : Ti.UI.TEXT_VERTICAL_ALIGNMENT_TOP,
+	width: "95%",
+	font : {
+		fontSize : '14dp',
+		fontFamily : 'Helvetica Neue',
+		fontWeight : 'bold'
+	},
+	height: "100%"
+}, 
+".hgrid": {
+	layout: "horizontal",
+	horizontalWrap: true
+}, 
+".vgrid": {
+	layout: "vertical",
+	verticalWrap: true
+}, 
+".v1": {
+	height: "100%",
+	color: "#000"
+},
+".v2": {
+	height: "50%",
+	color: "#000"
+},
+".v3": {
+	height: "33.33%",
+	color: "#000"
+},
+".v4": {
+	height: "25%",
+	color: "#000"
+},
+".v5": {
+	height: "20%",
+	color: "#000"
+},
+".w1": {
+	width: "100%",
+	color: "#000"
+},
+".w2": {
+	width: "50%",
+	color: "#000"
+},
+".w3": {
+	width: "33.33%",
+	color: "#000"
+},
+".w4": {
+	width: "25%",
+	color: "#000"
+},
+".w5": {
+	width: "20%",
+	color: "#000"
+} 

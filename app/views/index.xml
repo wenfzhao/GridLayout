@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container" id="win">
+	    <View top="20" >
+	       <Widget src="com.money-media.gridLayout" id="gridLayout" columns=3 rows=3 />
+       </View>
+	</Window>
+</Alloy>

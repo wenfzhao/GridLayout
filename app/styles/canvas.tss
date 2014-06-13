@@ -1,0 +1,10 @@
+".container": {
+	backgroundColor:"white"
+}
+".headlineTitle": {
+    font : {
+        fontSize : '14dp',
+        fontFamily : 'Helvetica Neue',
+        fontWeight : 'bold'
+    }
+}

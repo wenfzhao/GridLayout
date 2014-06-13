@@ -1,0 +1,12 @@
+{
+	"id": "com.money-media.gridLayout",
+	"description" : "Grid Layout",
+	"author": "Money-Media",
+	"version": "1.0",
+	"copyright":"Copyright (c) 2014 by Money-Media",
+	"license":"Public Domain",
+	"min-alloy-version": "0.1.16",
+	"min-titanium-version":"2.0",
+	"tags":"utility",
+	"platforms":"android,ios,mobileweb"
+}

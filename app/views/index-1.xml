@@ -1,0 +1,53 @@
+<Alloy>
+    <Window class="container" id="win">
+        <View class="vgrid">
+            <View class="v2">
+                <View class="hgrid">
+                    <View class="w5">
+                        <View class="vgrid">
+                            <View class="v2">
+                                <Label>MSWM, Merrill Lead Barron’s Top Female Advisors List</Label>
+                            </View>
+                            <View class="v2">
+                                <Label>NYC Pensions Issue $5B Fixed Income RFP</Label>
+                            </View>
+                        </View>
+                    </View>
+                    <View class="w3">
+                        <Label>Salient Expands Control over Calif. Pension in OCIO Coup</Label>
+                    </View>
+                    <View class="w4">
+                        <View class="hgrid">
+                            <View class="w2">
+                                <Label>Placement Agents Barred from NYC Pension Funds</Label>
+                            </View>
+                            <View class="w2">
+                                <Label>Guggenheim Launches Consultant Coverage with New Team</Label>
+                            </View>
+                        </View>
+                    </View>
+                </View>
+            </View>
+            <View class="v3">
+                <View class="hgrid">
+                    <View class="w3">
+                        <Label>Five JP Morgan Pension Execs Join New OCIO</Label>
+                    </View>
+                    <View class="w4">
+                        <Label>Consultants' Roundtable: Mid-Year Outlook</Label>
+                    </View>
+                    <View class="w5">
+                        <View class="hgrid">
+                            <View class="w2">
+                                <Label>Russell: Endowment Goals May be Unrealistic</Label>
+                            </View>
+                            <View class="w2">
+                                <Label>Instant Messaging Banned at SAC Capital Offshoot</Label>
+                            </View>
+                        </View>
+                    </View>
+                </View>
+            </View>
+        </View>
+    </Window>
+</Alloy>
